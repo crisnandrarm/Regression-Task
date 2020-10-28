@@ -1,4 +1,4 @@
-# Regression-Task
+# Regression Task
 
 Tugas DTI Telkom - Data Science
 Crisnandra Rahmita Mardiantien - DS0106
